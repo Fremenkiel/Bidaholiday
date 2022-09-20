@@ -12,6 +12,7 @@ language.php & currency.php er ikke meget andet end importeret i alle dokumenter
 
 De er til fremtidssikring, til at medhjælpe brugerdefineret sprog og valuta. 
 
+
 Testside: test.bidaholiday.com
 
 Test bruge:
