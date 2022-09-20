@@ -2143,7 +2143,7 @@ function ownaddoverbid(bidowninputval) {
         
     </script>
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOlFuYZUNico49ai-7mTMLSvF5kdosAUY&callback=initMapLoc&libraries=&v=weekly"
+      src="https://maps.googleapis.com/maps/api/js?key=####&callback=initMapLoc&libraries=&v=weekly"
       async
     ></script>
 
